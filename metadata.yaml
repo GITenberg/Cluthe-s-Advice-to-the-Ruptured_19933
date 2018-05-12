@@ -1,0 +1,26 @@
+_repo: Cluthe-s-Advice-to-the-Ruptured_19933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cluthe Rupture Institute
+    gutenberg_agent_id: '8973'
+    url: http://www.gutenberg.org/2009/agents/8973
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hernia'
+- !lcsh 'Trusses (Surgery)'
+- !lcc 'RD'
+title: Cluthe's Advice to the Ruptured
+url: http://www.gutenberg.org/ebooks/19933
